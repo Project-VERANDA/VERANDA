@@ -13,16 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: MM
+title: VERANDA
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The BMBF project aims to include the analysis, conception and implementation of awareness of risks and the responsible handling of personal data. 
+  The focus of the project extends to both the individual and societal level and is particularly aimed at the handling of personal and highly sensitive medical data in highly stigmatized groups.
+url: "https://njctn.github.io"
+baseurl: "/VERANDA"
 twitter_username: username
 github_username: username
-minimal_mistakes_skin: default
-search: true
+minimal_mistakes_skin: mint
+search: false
 
 # Build settings
 markdown: kramdown
@@ -58,34 +59,45 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  name   : "VERANDA Project"
+  avatar : "/assets/images/veranda-logo.jpg"
+  bio    : "The BMBF project aims to include the analysis, conception and implementation of awareness of risks and the responsible handling of personal data. 
+  The focus of the project extends to both the individual and societal level and is particularly aimed at the handling of personal and highly sensitive medical data in highly stigmatized groups."
   links:
-    - label: "Website"
+    - label: "BMBF Project Site"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+      url: "https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/veranda"
+    - label: "TU Project Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda"
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "BMBF Project Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/veranda"
+    - label: "TU Project Site"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda"
+    - label: "Impressum/Legal Notice"
+      icon: "fas fa-fw fa-link"
+      url: /impressum/
+
+# Added to disable RSS button in footer like described here:
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disable-feed-icons
+atom_feed:
+  hide: true
+
+# Collections
+collections:
+  publications:
+    output: true
+    permalink: /:collection/:path/
+  news:
+    output: true
+    permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -106,6 +118,28 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: false
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: single
+      author_profile: true
+  # _code
+  - scope:
+      path: ""
+      type: code
+    values:
+      layout: single
+      author_profile: false
+      classes: wide
 
 category_archive:
   type: liquid
