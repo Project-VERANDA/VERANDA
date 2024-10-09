@@ -1,0 +1,35 @@
+VERANDA:
+    name: 'VERANDA Project'
+    bio: ''
+    avatar: '/assets/images/veranda-logo.jpg'
+    links: 
+      - label: "BMBF Project Site"
+        icon: "fas fa-fw fa-link"
+        url: "https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/veranda"
+      - label: "TU Project Site"
+        icon: "fas fa-fw fa-link"
+        url: "https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda"
+Vera:
+    name: 'Vera Schmitt'
+    bio: ''
+    avatar: '/assets/images/Vera.jpg'
+    email: "vera.schmitt@tu-berlin.de"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/veraschmitt'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao'
+Salar:
+    name: 'Salar Mohtaj'
+    bio: ''
+    avatar: '/assets/images/Salar.jpg'
+    email: "salar.mohtaj@tu-berlin.de"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/salarmohtaj'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=lnrUBN0AAAAJ'     
