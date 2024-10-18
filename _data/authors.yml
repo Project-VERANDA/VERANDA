@@ -21,6 +21,21 @@ Vera:
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
         url: 'https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao'
+Luke:
+    name: 'Luke Flanagan'
+    bio: ''
+    avatar: '/assets/images/Luke.jpg'
+    email: "vera.schmitt@bih-charite.de"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/veraschmitt'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?hl=en&user=Mpi7l6AAAAAJ'
+      - label: 'ORCiD' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://orcid.org/0009-0002-0167-6830'
 Salar:
     name: 'Salar Mohtaj'
     bio: ''
