@@ -1,5 +1,5 @@
 ---
-title: "VERANDA-BMBF project kick-off"
+title: "How to protect your identity and access the project anonymously"
 date: 18-10-2024
 author_profile: true
 author: Luke
