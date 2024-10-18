@@ -18,7 +18,7 @@ email:
 description: >- # this means to ignore newlines until "baseurl:"
   The BMBF project aims to include the analysis, conception and implementation of awareness of risks and the responsible handling of personal data. 
   The focus of the project extends to both the individual and societal level and is particularly aimed at the handling of personal and highly sensitive medical data in highly stigmatized groups.
-url: "https://njctn.github.io"
+url: "https://project-veranda.github.io/"
 baseurl: "/VERANDA"
 twitter_username: username
 github_username: username
