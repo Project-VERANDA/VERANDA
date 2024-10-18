@@ -24,12 +24,12 @@ Vera:
 Luke:
     name: 'Luke Flanagan'
     bio: ''
-    avatar: '/assets/images/Luke.jpg'
+    avatar: ''
     email: "vera.schmitt@bih-charite.de"
     links: 
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
-        url: 'https://github.com/veraschmitt'
+        url: 'https://github.com/LF-BIH-Charite'
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
         url: 'https://scholar.google.com/citations?hl=en&user=Mpi7l6AAAAAJ'
