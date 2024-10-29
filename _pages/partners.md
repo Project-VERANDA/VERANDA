@@ -11,7 +11,7 @@ Charité - Universitätsmedizin Berlin
 <br>
 <small><strong>Health Data Privacy</strong></small>
 
-[Website](https://www.bihealth.org/de/forschung/arbeitsgruppe/health-data-privacy){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
+[Website](https://www.bihealth.org/de/forschung/arbeitsgruppe/gesundheitsdatenschutz){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
 
 ---
 
