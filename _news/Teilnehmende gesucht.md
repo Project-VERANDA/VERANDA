@@ -16,7 +16,11 @@ Das Projekt VERANDA sucht Teilnehmende für eine Befragung zu Bedürfnissen und 
 Gesucht werden Personen aus folgenden Gruppen: 
 - Allgemeinbevölkerung 
 - Personen aus dem Gesundheitswesen 
-- Menschen verschiedensten stigmatisierten Gruppen, z.B. Menschen mit sexuellem Interesse an Kindern, Sexarbeiter*innen, trans Personen, sowie Überlebende von sexuellem Kindesmissbrauch 
+- Menschen verschiedensten stigmatisierten Gruppen, z.B.
+  - Menschen mit sexuellem Interesse an Kindern
+  - Sexarbeiter*innen
+  - Trans Personen, sowie
+  - Überlebende von sexuellem Kindesmissbrauch 
 
 
 Voraussetzungen für die Teilnahme sind... 
@@ -24,4 +28,4 @@ Voraussetzungen für die Teilnahme sind...
 - Sie sprechen fließend Deutsch oder Englisch 
 
 
-Teilnehmen kann man bis zum 31.08.2025 hier: https://survey.charite.de/Gr_09/
+Teilnehmen kann man bis zum 31.08.2025 hier: [https://survey.charite.de/Gr_09/](https://survey.charite.de/Gr_09/)
