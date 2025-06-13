@@ -8,6 +8,7 @@ collection: news
 classes: wide
 
 header:
+
 ---
 
 Many people avoid therapy or digital health services because they fear being judged or excluded due to sensitive personal characteristics. At the Berlin Institute of Health at Charité, we are addressing this challenge through the VERANDA research project which is funded by the Federal Ministry of Research, Technology and Space.
