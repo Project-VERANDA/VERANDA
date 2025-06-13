@@ -21,7 +21,7 @@ Our mission is to develop **safe and anonymous access** to digital health suppor
 ### Why Your Opinion Matters
 
 To better understand these needs, we are conducting an online survey. Your input will directly influence how we shape future digital solutions – especially tools for anonymous online therapy sessions.
-
+<!--more-->
 - Duration: 30 - 45 minutes  
 - Completely anonymous – no personal data will be collected  
 - Open to multiple groups listed below
