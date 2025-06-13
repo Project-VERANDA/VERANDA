@@ -1,5 +1,5 @@
 ---
-title: "Shaping Anonymous Support - Your Input Matters! ➜ Take part in our survey today!"
+title: "Take part in our survey today!"
 
 date: 13-06-2025
 author_profile: true
@@ -10,6 +10,7 @@ classes: wide
 header:
 
 excerpt: >
+### Shaping Anonymous Support - Your Input Matters!
   Many people avoid therapy or digital health services because they fear being judged or excluded due to sensitive personal characteristics. At the Berlin Institute of Health at Charité, we   are addressing this challenge through the VERANDA research project which is funded by the Federal Ministry of Research, Technology and Space.
 
   Our mission is to develop **safe and anonymous access** to digital health support such as psychotherapy – especially for individuals who currently avoid such services due to fear of         stigmatization.
