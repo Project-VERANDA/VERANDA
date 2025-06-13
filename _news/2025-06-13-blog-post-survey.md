@@ -52,6 +52,7 @@ Please choose the version of the survey that best matches your identity or exper
 
 ---
 ### Partners
+- Berlin Institute of Health at Charité
 - Institute for Sexology and Sexual Medicine at the Charité - University Medicine Berlin 
 - University of Technology Berlin
 - German Research Center for Artificial Intelligence 
