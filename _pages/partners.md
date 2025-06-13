@@ -35,8 +35,3 @@ Deutsches Forschungszentrum für Künstliche Intelligenz GmBH (DFKI), <em>Berlin
 
 [Website](https://dfki-nlp.github.io/){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
 
----
-
-Fraunhofer-Institut für Angewandte und Integrierte Sicherheit (AISEC), <em>Garching bei München</em>
-
-[Website](https://www.aisec.fraunhofer.de/){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
