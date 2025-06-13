@@ -1,5 +1,5 @@
 ---
-title: "Shaping Anonymous Support - Your Input Matters! ➜ Take part in our survey today!
+title: "Shaping Anonymous Support - Your Input Matters! ➜ Take part in our survey today!"
 
 date: 13-06-2025
 author_profile: true
