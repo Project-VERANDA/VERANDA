@@ -36,12 +36,12 @@ To better understand these needs, we are conducting an online survey. Your input
 The inclusion of these diverse groups reflects the various ways in which stigma can create barriers to digital mental health access. We are not suggesting that these groups are equivalent or comparable. However, all are affected by stigma in ways that can limit access to mental health care. We aim to understand the very different forms of stigma each group faces — and to ensure that all perspectives are valued and represented in the development of safer, more inclusive technologies.
 
 Please choose the version of the survey that best matches your identity or experience:
-- **People with a sexual interest in children**: https://survey.charite.de/Gr_01/  
-- **Sex Workers**:https://survey.charite.de/Gr_03/ 
-- **Trans People**: https://survey.charite.de/Gr_05/  
-- **Health Care Workers**: https://survey.charite.de/Gr_07/
-- **Survivors of Child Sexual Abuse**: https://survey.charite.de/Gr_08/ 
-- **General Public / Other**: https://survey.charite.de/Gr_09/ 
+- **People with a sexual interest in children**: [https://survey.charite.de/Gr_01/](https://survey.charite.de/Gr_01/)  
+- **Sex Workers**: [https://survey.charite.de/Gr_03/](https://survey.charite.de/Gr_03/) 
+- **Trans People**: [https://survey.charite.de/Gr_05/](https://survey.charite.de/Gr_05/)  
+- **Health Care Workers**: [https://survey.charite.de/Gr_07/](https://survey.charite.de/Gr_07/)
+- **Survivors of Child Sexual Abuse**: [https://survey.charite.de/Gr_08/](https://survey.charite.de/Gr_08/) 
+- **General Public / Other**: [https://survey.charite.de/Gr_09/](https://survey.charite.de/Gr_09/) 
 
 ---
 ### Partners
