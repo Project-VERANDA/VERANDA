@@ -27,7 +27,7 @@ Explore publications originated from the VERANDA project or related activities. 
 <b>In Press</b>
 </p>
   <p>
-  Wang, Q., Feldhus, N., Ostermann, S., Villa-Arenas, L.F., Möller, S. and Schmitt, V., 2025. FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation. arXiv preprint arXiv:2501.00777.
+  <a href="https://arxiv.org/abs/2501.00777">AWang, Q., Feldhus, N., Ostermann, S., Villa-Arenas, L.F., Möller, S. and Schmitt, V., 2025. FitCF: A Framework for Automatic Feature Importance-guided Counterfactual Example Generation. arXiv preprint arXiv:2501.00777.</a>
   </p>
   <p>
   Dhaini, M., Erdogan, E., Feldhus, N. and Kasneci, G., 2025. Gender Bias in Explainability: Investigating Performance Disparity in Post-hoc Methods. arXiv preprint arXiv:2505.01198.
