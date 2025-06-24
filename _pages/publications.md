@@ -10,6 +10,8 @@ classes: wide
 <div class = "text-justify">
 Explore publications originated from the VERANDA project or related activities. If available, a button below each publication links to a PDF version of the full article or excerpt. The list will grow with time as new advances are being made.  
 
+\r\n
+
 <p>
   <b>Published</b>
 </p>
