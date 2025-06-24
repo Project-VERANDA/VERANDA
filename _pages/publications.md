@@ -10,7 +10,7 @@ classes: wide
 <div class = "text-justify">
 Explore publications originated from the VERANDA project or related activities. If available, a button below each publication links to a PDF version of the full article or excerpt. The list will grow with time as new advances are being made.  
 
-\r\n
+<hr>
 
 <p>
   <b>Published</b>
@@ -24,7 +24,7 @@ Explore publications originated from the VERANDA project or related activities. 
   <p>
   <a href="https://doi.org/10.18653/v1/2024.findings-emnlp.76">Flanagan, L. and Poikela, M., 2025. Attitudes of Developers Towards Privacy in Personal Health Applications. Studies in health technology and informatics, 327, pp.949-953.</a>
   </p>
-
+<br>
 <p>
 <b>In Press</b>
 </p>
