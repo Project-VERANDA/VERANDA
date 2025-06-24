@@ -10,7 +10,7 @@ classes: wide
 <div class = "text-justify">
 Explore publications originated from the VERANDA project or related activities. If available, a button below each publication links to a PDF version of the full article or excerpt. The list will grow with time as new advances are being made.  
 
-<b>Published</b>
+<p><b>Published</b></p>
   Wang, Q., Anikina, T., Feldhus, N., Ostermann, S., Möller, S. and Schmitt, V., 2025, January. Cross-Refine: Improving Natural Language Explanation Generation by Learning in Tandem. In Proceedings of the 31st International Conference on Computational Linguistics (pp. 1150-1167).
 
   Wang, Q., Anikina, T., Feldhus, N., Ostermann, S. and Möller, S., 2024, November. CoXQL: A Dataset for Parsing Explanation Requests in Conversational XAI Systems. In Findings of the Association for Computational Linguistics: EMNLP 2024 (pp. 1410-1422).
