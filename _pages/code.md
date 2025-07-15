@@ -12,6 +12,14 @@ Explore open source code originated from the VERANDA project or related activiti
 </div>
 <p></p>
 
+<b>In Press</b>
+</p>
+<p>
+  Speech Anonymizer: <a href="https://github.com/carlosfranzreb/private_knnvc">https://github.com/carlosfranzreb/private_knnvc</a></p>
+
+<p style="text-indent: 40px"> Associated paper: <a href="https://arxiv.org/abs/2501.00777">Franzreb, C., Das, A., Polzehl, T. and Möller, S., 2025. Private kNN-VC: Interpretable Anonymization of Converted Speech. arXiv preprint arXiv:2505.17584.</a>
+</p>
+  
 {% if paginator %}
   {% assign code = paginator.code | reverse %}
 {% else %}
