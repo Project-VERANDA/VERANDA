@@ -18,43 +18,43 @@ author_profile: false
   </style>
 </head>
 
-<!-- Contact details -->
+<!-- ==================== CONTACT DETAILS ==================== -->
 <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-Institut für Sexualwissenschaft und Sexualmedizin<br>
-Luisenstraße 57 (Ebene 2, Raum 003)<br>
-10117 Berlin<br>
-<a href="https://www.openstreetmap.org/directions?from=&to=52.5256527%2C13.3767302"
+<strong>Institut für Sexualwissenschaft und Sexualmedizin</strong><br>
+Luisenstraße 57 (Ebene 2, Raum 003)<br>
+10117 Berlin<br>
+<a href="https://www.openstreetmap.org/directions?from=&to=52.525650%2C13.379305"
    target="_blank" rel="noopener noreferrer">
-  Open in OSM
+  Open in OpenStreetMap
 </a><br>
-Plus‑code: G9GH+7P Berlin<br>
+Plus‑code: G9GH+7P Berlin<br>
 Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmail.com</a>
 
-<!-- Map -->
+<!-- ==================== MAP ==================== -->
 <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
 <div id="map"></div>
 
 <script>
-  // ----- NEW COORDINATES -------------------------------------------------
-  const loc = [52.5256527, 13.3767302];   // Latitude, Longitude
+  // ----- NEW COORDINATES (Luisenstraße 57) -----
+  const loc = [52.525650, 13.379305];   // latitude, longitude
 
   // Initialise the map centred on the new location
   const map = L.map('map').setView(loc, 16);
 
-  // Add the OpenStreetMap tile layer
+  // Add OpenStreetMap tiles
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
-  // Create a marker at the exact point
+  // Marker at the exact point
   const marker = L.marker(loc).addTo(map);
 
-  // Popup with the human‑readable address (helps confirm the location)
+  // Popup with the full address (helps confirm the spot)
   const addressHtml = `
     <strong>Institut für Sexualwissenschaft und Sexualmedizin</strong><br>
-    Luisenstraße 57 (Ebene 2, Raum 003)<br>
-    10117 Berlin
+    Luisenstraße 57 (Ebene 2, Raum 003)<br>
+    10117 Berlin
   `;
-  marker.bindPopup(addressHtml).openPopup();   // Opens automatically on load
+  marker.bindPopup(addressHtml).openPopup();   // opens automatically on load
 </script>
