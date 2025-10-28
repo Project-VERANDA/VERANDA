@@ -14,16 +14,19 @@ author_profile: false
           crossorigin=""></script>
 
   <style>
+    /* Height for the map container */
     #map { height: 330px; }
   </style>
 </head>
 
 <!-- ==================== CONTACT DETAILS ==================== -->
 <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
-<strong>Institut für Sexualwissenschaft und Sexualmedizin</strong><br>
-Luisenstraße 57 (Ebene 2, Raum 003)<br>
-10117 Berlin<br>
-<a href="https://www.openstreetmap.org/directions?from=&to=52.525650%2C13.379305"
+<strong>Prof. Dr.-Ing Maija Poikela</strong><br>
+AG Health Data Privacy<br>
+Rahel‑Hirsch‑Center for Translational Medicine<br>
+Luisenstraße 65 (Ebene 2, Raum 003)<br>
+Charitéplatz 1, 10117 Berlin<br>
+<a href="https://www.openstreetmap.org/directions?from=&to=52.5260798%2C13.3784165"
    target="_blank" rel="noopener noreferrer">
   Open in OpenStreetMap
 </a><br>
@@ -35,13 +38,13 @@ Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmai
 <div id="map"></div>
 
 <script>
-  // ----- NEW COORDINATES (Luisenstraße 57) -----
-  const loc = [52.525650, 13.379305];   // latitude, longitude
+  // ----- UPDATED COORDINATES (Luisenstraße 65 / Charitéplatz 1) -----
+  const loc = [52.5260798, 13.3784165];   // latitude, longitude
 
   // Initialise the map centred on the new location
   const map = L.map('map').setView(loc, 16);
 
-  // Add OpenStreetMap tiles
+  // Load OpenStreetMap tiles
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
@@ -52,9 +55,11 @@ Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmai
 
   // Popup with the full address (helps confirm the spot)
   const addressHtml = `
-    <strong>Institut für Sexualwissenschaft und Sexualmedizin</strong><br>
-    Luisenstraße 57 (Ebene 2, Raum 003)<br>
-    10117 Berlin
+    <strong>Prof. Dr.-Ing Maija Poikela</strong><br>
+    AG Health Data Privacy<br>
+    Rahel‑Hirsch‑Center for Translational Medicine<br>
+    Luisenstraße 65 (Ebene 2, Raum 003)<br>
+    Charitéplatz 1, 10117 Berlin
   `;
   marker.bindPopup(addressHtml).openPopup();   // opens automatically on load
 </script>
