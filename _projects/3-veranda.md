@@ -1,5 +1,5 @@
 ---
-title: "BMBF Project: VERANDA"
+title: "BMFTR Project: VERANDA"
 collection: projects
 permalink: /projects/veranda
 date: 2024-03-01
