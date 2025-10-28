@@ -61,7 +61,7 @@ plugins:
 author:
   name   : "VERANDA Project"
   avatar : "/assets/images/veranda-logo.jpg"
-  bio    : "The BMBF project aims to include the analysis, conception and implementation of awareness of risks and the responsible handling of personal data. 
+  bio    : "The BMFTR project aims to include the analysis, conception and implementation of awareness of risks and the responsible handling of personal data. 
   The focus of the project extends to both the individual and societal level and is particularly aimed at the handling of personal and highly sensitive medical data in highly stigmatized groups."
   links:
     - label: "BMFTR Project Site"
