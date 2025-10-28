@@ -24,6 +24,9 @@ Explore publications originated from the VERANDA project or related activities. 
   <p>
   <a href="https://doi.org/10.18653/v1/2024.findings-emnlp.76">Flanagan, L. and Poikela, M., 2025. Attitudes of Developers Towards Privacy in Personal Health Applications. Studies in health technology and informatics, 327, pp.949-953.</a>
   </p>
+    <p>
+  <a href="https://doi.org/10.3233/shti250883">Flanagan L, Poikela M. Current Applications of Stigma-Conscious Interventions for Healthcare. MEDINFO 2025—Healthcare Smart× Medicine Deep. 2025:465-9.</a>
+  </p>
 <br>
 <p>
 <b>In Press</b>
@@ -36,6 +39,12 @@ Explore publications originated from the VERANDA project or related activities. 
   </p>
   <p>
   <a href="https://arxiv.org/abs/2501.00777">Franzreb, C., Das, A., Polzehl, T. and Möller, S., 2025. Private kNN-VC: Interpretable Anonymization of Converted Speech. arXiv preprint arXiv:2505.17584.</a>
+  </p>
+    <p>
+  <a href="https://arxiv.org/pdf/2508.14982?">Wang Q, Anikina T, Feldhus N, Ostermann S, Splitt F, Li J, Tsoneva Y, Möller S, Schmitt V. Multilingual Datasets for Custom Input Extraction and Explanation Requests Parsing in Conversational XAI Systems. arXiv preprint arXiv:2508.14982. 2025 Aug 20.</a>
+  </p>
+    <p>
+  <a href="https://arxiv.org/abs/2501.00777">Wang Q, Nguyen VB, Feldhus N, Villa-Arenas LF, Seifert C, Möller S, Schmitt V. Truth or Twist? Optimal Model Selection for Reliable Label Flipping Evaluation in LLM-based Counterfactuals. arXiv preprint arXiv:2505.13972. 2025 May 20.</a>
   </p>
 </div>
 <p></p>
