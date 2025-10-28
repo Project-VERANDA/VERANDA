@@ -24,7 +24,7 @@ author_profile: false
 <strong>Prof. Dr.-Ing Maija Poikela</strong><br>
 AG Health Data Privacy<br>
 Rahel‑Hirsch‑Center for Translational Medicine<br>
-Luisenstraße 65 (Ebene 2, Raum 003)<br>
+Luisenstraße 65<br>
 Charitéplatz 1, 10117 Berlin<br>
 <a href="https://www.openstreetmap.org/directions?from=&to=52.5268647%2C13.3787751"
    target="_blank" rel="noopener noreferrer">
@@ -58,7 +58,7 @@ Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmai
     <strong>Prof. Dr.-Ing Maija Poikela</strong><br>
     AG Health Data Privacy<br>
     Rahel‑Hirsch‑Center for Translational Medicine<br>
-    Luisenstraße 65 (Ebene 2, Raum 003)<br>
+    Luisenstraße 65<br>
     Charitéplatz 1, 10117 Berlin
   `;
   marker.bindPopup(addressHtml).openPopup();   // opens automatically on page load
