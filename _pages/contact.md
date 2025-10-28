@@ -26,7 +26,7 @@ AG Health Data Privacy<br>
 Rahel‑Hirsch‑Center for Translational Medicine<br>
 Luisenstraße 65 (Ebene 2, Raum 003)<br>
 Charitéplatz 1, 10117 Berlin<br>
-<a href="https://www.openstreetmap.org/directions?from=&to=52.5260798%2C13.3784165"
+<a href="https://www.openstreetmap.org/directions?from=&to=52.5268647%2C13.3787751"
    target="_blank" rel="noopener noreferrer">
   Open in OpenStreetMap
 </a><br>
@@ -38,8 +38,8 @@ Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmai
 <div id="map"></div>
 
 <script>
-  // ----- UPDATED COORDINATES (Luisenstraße 65 / Charitéplatz 1) -----
-  const loc = [52.5260798, 13.3784165];   // latitude, longitude
+  // ----- UPDATED COORDINATES (Rahel‑Hirsch‑Center) -----
+  const loc = [52.5268647, 13.3787751];   // latitude, longitude
 
   // Initialise the map centred on the new location
   const map = L.map('map').setView(loc, 16);
@@ -61,5 +61,5 @@ Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmai
     Luisenstraße 65 (Ebene 2, Raum 003)<br>
     Charitéplatz 1, 10117 Berlin
   `;
-  marker.bindPopup(addressHtml).openPopup();   // opens automatically on load
+  marker.bindPopup(addressHtml).openPopup();   // opens automatically on page load
 </script>
