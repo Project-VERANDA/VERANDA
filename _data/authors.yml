@@ -3,7 +3,7 @@ VERANDA:
     bio: ''
     avatar: '/assets/images/veranda-logo.jpg'
     links: 
-      - label: "BMBF Project Site"
+      - label: "BMFTR Project Site"
         icon: "fas fa-fw fa-link"
         url: "https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/veranda"
       - label: "TU Project Site"
