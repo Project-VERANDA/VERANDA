@@ -18,7 +18,7 @@ author_profile: false
   </style>
 </head>
 
-<!-- Address block -->
+<!-- Contact details -->
 <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true"></i>
 Institut für Sexualwissenschaft und Sexualmedizin<br>
 Luisenstraße 57 (Ebene 2, Raum 003)<br>
@@ -30,20 +30,31 @@ Luisenstraße 57 (Ebene 2, Raum 003)<br>
 Plus‑code: G9GH+7P Berlin<br>
 Email: <a href="mailto:project-veranda@protonmail.com">project-veranda@protonmail.com</a>
 
-<!-- Map container -->
+<!-- Map -->
 <i class="fa-li fas fa-compass fa-2x" aria-hidden="true"></i>
 <div id="map"></div>
 
 <script>
-  // New location (Institut für Sexualwissenschaft …)
-  const loc = [52.5256527, 13.3767302];   // latitude, longitude
+  // ----- NEW COORDINATES -------------------------------------------------
+  const loc = [52.5256527, 13.3767302];   // Latitude, Longitude
 
+  // Initialise the map centred on the new location
   const map = L.map('map').setView(loc, 16);
+
+  // Add the OpenStreetMap tile layer
   L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
   }).addTo(map);
 
-  // Marker at the new coordinates
+  // Create a marker at the exact point
   const marker = L.marker(loc).addTo(map);
+
+  // Popup with the human‑readable address (helps confirm the location)
+  const addressHtml = `
+    <strong>Institut für Sexualwissenschaft und Sexualmedizin</strong><br>
+    Luisenstraße 57 (Ebene 2, Raum 003)<br>
+    10117 Berlin
+  `;
+  marker.bindPopup(addressHtml).openPopup();   // Opens automatically on load
 </script>
