@@ -1,5 +1,5 @@
 ---
-title: "BMBF Project: news-polygraph"
+title: "BMFTR Project: news-polygraph"
 collection: projects
 permalink: /projects/newspolygraph
 # date: 2023-05-01
@@ -34,6 +34,6 @@ Funding:
 ---
 Bundesministerium für Bildung und Forschung (Berlin, Berlin, DE)
 
-**Funding** RUBIN BMBF (total funding volume for news-polygraph 12,775,884€)
+**Funding** RUBIN BMFTR (total funding volume for news-polygraph 12,775,884€)
 
 **Funding for TU Berlin:** EUR 1,492,547
