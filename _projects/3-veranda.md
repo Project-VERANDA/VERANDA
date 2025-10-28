@@ -16,6 +16,6 @@ The VERANDA project is dedicated to applied research into informational self-det
 
 **Project partners:** BIH and IfSS Charité, Q&U Lab Technische Universität Berlin, SLT German Research Center for Artificial Intelligence, Fraunhofer AISEC 
 
-**Total funding amount:** BMBF-funded project (funding volume for VERANDA  EUR 1,998,825)
+**Total funding amount:** BMFTR-funded project (funding volume for VERANDA  EUR 1,998,825)
 
 **Funding amount for TU Berlin:** EUR 321,600
