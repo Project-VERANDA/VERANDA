@@ -72,7 +72,7 @@ author:
       url: "https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda"
 footer:
   links:
-    - label: "BMBF Project Site"
+    - label: "BMFTR Project Site"
       icon: "fas fa-fw fa-link"
       url: "https://www.forschung-it-sicherheit-kommunikationssysteme.de/projekte/veranda"
     - label: "TU Project Site"
