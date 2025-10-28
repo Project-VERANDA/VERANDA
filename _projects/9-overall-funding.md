@@ -8,5 +8,5 @@ date: 2027-05-01
 
 
 **EU Marie Curie Funding:** EUR 521.978 (total funding EUR 4.067.942,4),
-**BMBF** EUR 1.814.146,22 (total funding EUR 15.215.609,8),
+**BMFTR** EUR 1.814.146,22 (total funding EUR 15.215.609,8),
 **Other** EUR 329.100,36
