@@ -20,4 +20,4 @@ Voraussetzungen für die Teilnahme sind...
 - Sie sprechen fließend Deutsch oder Englisch 
 
 
-Ihre Teilnahme ist sehr wertvoll, selbst wenn Sie sich in keiner Weise stigmatisiert fühlen oder nicht an einem anonymen digitalen Therapieprogramm teilnehmen möchten. Teilnehmen kann man bis zum 16.05.2026 hier: [https://survey.charite.de/Gr_09/](https://survey.charite.de/Gr_09/)
+Ihre Teilnahme ist sehr wertvoll, selbst wenn Sie sich in keiner Weise stigmatisiert fühlen oder nicht an einem anonymen digitalen Therapieprogramm teilnehmen möchten. Teilnehmen kann man bis zum 14.05.2026 hier: [https://survey.charite.de/Gr_09/](https://survey.charite.de/Gr_09/)
