@@ -40,7 +40,7 @@ To better understand these needs, we are conducting an online survey. Your input
 ---
 ### Survey Links by Group
 
-The inclusion of these diverse groups reflects the various ways in which stigma can create barriers to digital mental health access. We are not suggesting that these groups are equivalent or comparable. However, all are affected by stigma in ways that can limit access to mental health care. We aim to understand the very different forms of stigma each group faces — and to ensure that all perspectives are valued and represented in the development of safer, more inclusive technologies.
+The inclusion of these diverse groups reflects the various ways in which stigma can create barriers to digital mental health access. We are not suggesting that these groups are equivalent or comparable. However, all are affected by stigma in ways that can limit access to mental health care. We aim to understand the very different forms of stigma each group faces — and to ensure that all perspectives are valued and represented in the development of safer, more inclusive technologies. Your participation is very valuable, even when you do not feel stigmatized in any way or do not wish to take part in an anonymous digital therapy program.
 
 Please choose the version of the survey that best matches your identity or experience:
 - **People with a sexual interest in children**: [https://survey.charite.de/Gr_01/](https://survey.charite.de/Gr_01/)  
@@ -64,3 +64,4 @@ Are you connected to individuals or groups who may be affected by stigma and cou
 
 For questions, suggestions, or collaboration inquiries, feel free to reach out.  
 We appreciate any support that helps make digital health services more inclusive, secure, and accessible for all.
+
