@@ -1,3 +1,4 @@
+---
 title: "VERANDA-Plattform Privatheit 2026"
 subtitle: "Vertrauen, Datenschutz und KI im Gesundheitswesen: VERANDA im Austausch bei Plattform Privatheit 2026"
 date: 07-10-2026
