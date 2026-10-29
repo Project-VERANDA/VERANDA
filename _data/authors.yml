@@ -47,4 +47,19 @@ Salar:
         url: 'https://github.com/salarmohtaj'
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
-        url: 'https://scholar.google.com/citations?user=lnrUBN0AAAAJ'     
+        url: 'https://scholar.google.com/citations?user=lnrUBN0AAAAJ' 
+Nadine: 
+    name: 'Nadine Warnstädt'
+    bio: ''
+    avatar: ''
+    email: "nadine.warnstaedt@aisec.fraunhofer.de"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 
+      - label: ' 
+        icon: 
+        url: 
+      - label: 'ORCiD' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://orcid.org/0009-0003-5034-0310'   
