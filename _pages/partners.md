@@ -23,6 +23,14 @@ Charité - Universitätsmedizin Berlin
 
 ---
 
+Fraunhofer Institute for Applied and Integrated Security AISEC
+<br>
+<small><strong>Secure Systems Engineering</strong></small>
+
+[Website](https://www.aisec.fraunhofer.de/){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
+
+---
+
 Technische Universität Berlin
 
 [Website](https://www.tu.berlin/qu/forschung/laufende-vergangene-projekte/laufende-projekte/veranda){:target="_blank"}{:rel="nofollow noopener noreferrer me"}
