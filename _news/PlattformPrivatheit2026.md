@@ -6,38 +6,34 @@ author: Nadine
 collection: news
 classes: wide
 
+header:
+
 ---
 
 
-***Englisch Version Below***
+***English Version Below***
 
 ## Vertrauen, Datenschutz und KI im Gesundheitswesen: VERANDA im Austausch bei Plattform Privatheit 2026
 
-Digitale Gesundheitsangebote können nur dann wirklich hilfreich sein, wenn sie zwei
-zentrale Anforderungen erfüllen: Sie müssen datenschutzkonform sein und gleichzeitig
-verständlich, zugänglich und vertrauenswürdig wirken. Gerade in sensiblen
-Situationen, in denen Menschen medizinische Unterstützung suchen, ist dieses
-Zusammenspiel besonders wichtig.
+Digitale Gesundheitsangebote können nur dann wirklich hilfreich sein, wenn sie zwei zentrale Anforderungen erfüllen: Sie müssen datenschutzkonform sein und gleichzeitig verständlich, zugänglich und vertrauenswürdig wirken. Gerade in sensiblen Situationen, in denen Menschen medizinische Unterstützung suchen, ist dieses Zusammenspiel besonders wichtig.
 
 **Beim Vernetzungstreffen Plattform Privatheit 2026 stand genau diese Frage im Mittelpunkt: Wie können digitale Anwendungen im Gesundheitswesen sicher gestaltet werden, ohne die Bedürfnisse der Nutzenden aus dem Blick zu verlieren?**
 
-Unter der Leitung von Nadine Warnstädt diskutierten Ina Schiering und Nils Heyen aus
-dem Projekt PRIMA, Claudia Müller-Birn und Malte Heiser aus dem Projekt
-ILLUMINATION sowie Luke Flanagan und Roland Roller aus dem Projekt VERANDA
+Unter der Leitung von Nadine Warnstädt diskutierten Ina Schiering und Nils Heyen aus dem Projekt PRIMA, Claudia Müller-Birn und Malte Heiser aus dem Projekt ILLUMINATION sowie Luke Flanagan und Roland Roller aus dem Projekt VERANDA
 gemeinsam mit den Workshop-Teilnehmenden über Datenschutz, Nutzendenfreundlichkeit
 und den verantwortungsvollen Umgang mit Gesundheitsdaten in Live-Chats mit
 Fachkräften oder KI-Systemen.
 
 **Drei Projekte, drei Perspektiven Im Workshop wurden drei Forschungsprojekte vorgestellt, die unterschiedliche Lösungsansätze für digitale Gesundheitsanwendungen mitbringen:**
 
-PRIMA präsentierte einen Chatbot, der Nutzende beim Privatheitsmanagement von Gesundheits-Apps unterstützt und Fragen zu Datenschutz und Privatsphäre beantwortet. 
-[Website](https://prima-projekt.de/)
+**PRIMA** präsentierte einen Chatbot, der Nutzende beim Privatheitsmanagement von Gesundheits-Apps unterstützt und Fragen zu Datenschutz und Privatsphäre beantwortet. 
+[Website PRIMA](https://prima-projekt.de/)
 
-ILLUMINATION stellte Ansätze für die datenschutzkonforme Nutzung von Large Language Models im Gesundheitswesen vor. Gezeigt wurde unter anderem ein Chatbot, der Patientinnen und Patienten in der Notaufnahme über Abläufe informiert. 
-[Website](https://www.mi.fu-berlin.de/en/inf/groups/hcc/research/projects/illumination/index.html)
+**ILLUMINATION** stellte Ansätze für die datenschutzkonforme Nutzung von Large Language Models im Gesundheitswesen vor. Gezeigt wurde unter anderem ein Chatbot, der Patientinnen und Patienten in der Notaufnahme über Abläufe informiert. 
+[Website ILLUMINATION](https://www.mi.fu-berlin.de/en/inf/groups/hcc/research/projects/illumination/index.html)
 
-VERANDA zeigte ein Tool, das Chats und Interviews anonymisieren kann sowie Audiodateien transkribiert und anschließend anonymisiert.  
-[Website](https://project-veranda.github.io/VERANDA/)
+**VERANDA** zeigte ein Tool, das Chats und Interviews anonymisieren kann sowie Audiodateien transkribiert und anschließend anonymisiert.  
+[Website VERANDA](https://project-veranda.github.io/VERANDA/)
 
 **Was schafft Vertrauen in digitale Gesundheitsanwendungen?**
 
@@ -69,26 +65,25 @@ Zum Tool auf GitHub:
 Das Vernetzungstreffen von Plattform Privatheit 2026 hat gezeigt: Datenschutz, Transparenz und Nutzendenfreundlichkeit müssen im Gesundheitswesen zusammen gedacht werden. Digitale Anwendungen können nur dann Vertrauen schaffen, wenn sie sicher sind und gleichzeitig die Lebensrealität der Menschen berücksichtigen, die sie nutzen.
 Projekte wie PRIMA, ILLUMINATION und VERANDA leisten hierzu wichtige Beiträge, von verständlicher Datenschutzkommunikation über den verantwortungsvollen Einsatz von KI bis hin zur datenschutzgerechten Verarbeitung sensibler Interview- und Chatdaten.
 
-**Trust, Data Protection, and AI in Healthcare: VERANDA at Plattform Privatheit 2026**
+## Trust, Data Protection, and AI in Healthcare: VERANDA at Plattform Privatheit 2026
 
 Digital health services can only be truly effective if they meet two key requirements: they must be privacy-compliant while also being clear, accessible, and trustworthy. This combination is especially important in sensitive situations where people are seeking medical support.
 
-**This exact question was at the heart of the Plattform Privatheit 2026 networking meeting:**
+**This exact question was at the heart of the Plattform Privatheit 2026 Vernetzungstreffen: How can digital healthcare applications be designed securely without losing sight of users’ needs?**
 
-How can digital healthcare applications be designed securely without losing sight of users’ needs?
-Led by Nadine Warnstädt, Ina Schiering and Nils Heyen from the PRIMA project, Claudia Müller-Birn and Malte Heiser from the ILLUMINATION project, as well as Luke Flanagan and Roland Roller from the VERANDA project discussed with workshop participants issues of data protection, user-friendliness, and the responsible handling of health data in live chats with professionals or AI systems.
+Ina Schiering and Nils Heyen from the PRIMA project, Claudia Müller-Birn and Malte Heiser from the ILLUMINATION project, as well as Luke Flanagan and Roland Roller and Nadine Warnstädt from the VERANDA project discussed with workshop participants issues of data protection, user-friendliness, and the responsible handling of health data in live chats with professionals or AI systems.
 
-Three projects, three perspectives
+Three projects, three perspectives:
 The workshop featured three research projects, each contributing a different perspective on digital healthcare applications:
 
 **PRIMA** presented a chatbot that helps users manage privacy settings in health apps and answers questions about data protection and privacy.
-[Website](https://prima-projekt.de/)
+[Website PRIMA](https://prima-projekt.de/)
 
 **ILLUMINATION** introduced approaches for the privacy-compliant use of large language models in healthcare. One example was a chatbot designed to inform patients in emergency departments about procedures and processes. 
-[Website](https://www.mi.fu-berlin.de/en/inf/groups/hcc/research/projects/illumination/index.html)
+[Website ILLUMINATION](https://www.mi.fu-berlin.de/en/inf/groups/hcc/research/projects/illumination/index.html)
 
 **VERANDA** presented a tool that can anonymize chats and interviews, as well as transcribe and anonymize audio files. 
-[Website](https://project-veranda.github.io/VERANDA/)
+[Website VERANDA](https://project-veranda.github.io/VERANDA/)
 
 **What Builds Trust in Digital Healthcare Applications?**
 
@@ -113,7 +108,7 @@ The tool developed within the VERANDA project helps researchers and practitioner
 The tool is currently being further developed, but it is already publicly available.
 
 Find the tool on GitHub:
-[Website](https://github.com/Project-VERANDA/ATA/)
+[https://github.com/Project-VERANDA/ATA/](https://github.com/Project-VERANDA/ATA/)
 
 **Conclusion**
 
@@ -136,5 +131,4 @@ Projects such as PRIMA, ILLUMINATION, and VERANDA are making important contribut
 
   <a href="{{ site.url }}{{ site.baseurl }}/assets/images/PlattformPrivatheit_4.jpg" alt="PlattformPrivatheit-2026">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/PlattformPrivatheit_4.jpg"></a>
-
 </figure>
